@@ -27,3 +27,6 @@ Data preparation is a crucial step in the coconut grade classification project i
  -Data Balancing: Make sure that the data is balanced, meaning that there are equal numbers of images from each class in the training, validation, and test sets. This is important to avoid any biases in the model.
 
 The goal of data preparation is to have a clean and well-prepared dataset that can be used to train the model and achieve high accuracy in the classification of coconuts into three grades.
+
+## Deployment:
+  Click here : https://huggingface.co/spaces/mukish45/Coconut_Grade_Classification
